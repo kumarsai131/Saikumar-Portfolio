@@ -160,10 +160,19 @@ footer small{
     text-align: center;
 }
 
+.saiimage{
+    height: 250px;
+    width: 240px;
+    margin: 0 auto;
+    text-align: center;
+}
+
 
 .home .image img{
-    height: 200px;
-    width: 200px;
+    /* height: 280px;
+    width: 260px; */
+    width: 100%;
+    height: 100%;
     border-radius: 50%;
     display: inline-block;
     border: 8px solid #fff;
